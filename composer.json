@@ -1,0 +1,16 @@
+{
+    "name": "fpt/asm_php",
+    "authors": [
+        {
+            "name": "DungKM",
+            "email": "108377940+DungKM@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+
+}
